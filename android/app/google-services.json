@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155348518044",
+    "project_id": "eyacleanlaundry",
+    "storage_bucket": "eyacleanlaundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155348518044:android:bca80995558c90d4c65959",
+        "android_client_info": {
+          "package_name": "com.sahl.eya_laundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWP99iwOAjezQ3RttR006AIt_hgc-F1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
